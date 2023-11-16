@@ -1,0 +1,7 @@
+ 'harmony'       : '0x5B209E7c81DEaad0ffb8b76b696dBb4633A318CD', # unavailable : need to convert it to a one-address
+    'core'          : '0xB47D82aA70f839dC27a34573f135eD6dE6CED9A5',
+    'celo'          : '0xFF21d5a3a8e3E8BA2576e967888Deea583ff02f8',
+    'moonbeam'      : '0xb0bea3bB2d6EDDD2014952ABd744660bAeF9747d',
+    'base'          : '0x9415AD63EdF2e0de7D8B9D8FeE4b939dd1e52F2C',
+    'scroll'        : '0xB074f8D92b930D3415DA6bA80F6D38f69ee4B9cf',
+    'zora'          : '0x1fe2c567169d39CCc5299727FfAC96362b2Ab90E',
